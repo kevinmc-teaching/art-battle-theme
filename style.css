@@ -50,6 +50,7 @@ img {
 
 p.wp-block-post-excerpt__more-text a {
    color: grey;
+   color: deeppink;
    text-transform: lowercase;
    font-size: .75em;
    letter-spacing: 1px;
