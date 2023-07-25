@@ -151,7 +151,17 @@
 		}
 	},
 	"styles": {
-		"css": "main {padding:2rem 2%;}",
+		"css": "",
+		"blocks": {
+			"core/query": {
+				"spacing": {
+					"padding": {
+						"left": "2%",
+						"right": "2%",
+					}
+				}
+			}
+		},
 		"elements": {
 			"heading": {
 				"typography": {
