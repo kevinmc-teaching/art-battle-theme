@@ -151,7 +151,7 @@
 		}
 	},
 	"styles": {
-		"css": "/* IgnoreThemeCustomCSS */",
+		"css": "main {padding:2rem 2%;}",
 		"elements": {
 			"heading": {
 				"typography": {
@@ -176,8 +176,8 @@
 			"blockGap": "15px",
 			"padding": {
 				"bottom": "0rem",
-				"left": "2%",
-				"right": "2%",
+				"left": "0%",
+				"right": "0%",
 				"top": "0px"
 			}
 		},
