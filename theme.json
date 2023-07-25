@@ -176,8 +176,8 @@
 			"blockGap": "15px",
 			"padding": {
 				"bottom": "0rem",
-				"left": "0%",
-				"right": "0%",
+				"left": "2%",
+				"right": "2%",
 				"top": "0px"
 			}
 		},
